@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/christopherwardana/projects/project-sandy/build",
+  "command": "/usr/bin/clang++ -Dplugin_app_operations_EXPORTS -I/Users/christopherwardana/projects/project-sandy/src -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/plugin_app_operations.dir/src/plugins/plugin_app_operations/operate_app_plugin.cpp.o -c /Users/christopherwardana/projects/project-sandy/src/plugins/plugin_app_operations/operate_app_plugin.cpp",
+  "file": "/Users/christopherwardana/projects/project-sandy/src/plugins/plugin_app_operations/operate_app_plugin.cpp",
+  "output": "CMakeFiles/plugin_app_operations.dir/src/plugins/plugin_app_operations/operate_app_plugin.cpp.o"
+},
+{
+  "directory": "/Users/christopherwardana/projects/project-sandy/build",
+  "command": "/usr/bin/clang++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DPLUGIN_DIR=\\\"/Users/christopherwardana/projects/project-sandy/build/plugins\\\" -DUSE_LIBTYPE_SHARED -I/Users/christopherwardana/projects/project-sandy/src -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/sandy.dir/src/main.cpp.o -c /Users/christopherwardana/projects/project-sandy/src/main.cpp",
+  "file": "/Users/christopherwardana/projects/project-sandy/src/main.cpp",
+  "output": "CMakeFiles/sandy.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/christopherwardana/projects/project-sandy/build",
+  "command": "/usr/bin/clang++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DPLUGIN_DIR=\\\"/Users/christopherwardana/projects/project-sandy/build/plugins\\\" -DUSE_LIBTYPE_SHARED -I/Users/christopherwardana/projects/project-sandy/src -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/sandy.dir/src/core/gui.cpp.o -c /Users/christopherwardana/projects/project-sandy/src/core/gui.cpp",
+  "file": "/Users/christopherwardana/projects/project-sandy/src/core/gui.cpp",
+  "output": "CMakeFiles/sandy.dir/src/core/gui.cpp.o"
+}
+]
