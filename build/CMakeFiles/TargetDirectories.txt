@@ -2,3 +2,5 @@
 /Users/christopherwardana/projects/project-sandy/build/CMakeFiles/plugin_app_operations.dir
 /Users/christopherwardana/projects/project-sandy/build/CMakeFiles/edit_cache.dir
 /Users/christopherwardana/projects/project-sandy/build/CMakeFiles/rebuild_cache.dir
+/Users/christopherwardana/projects/project-sandy/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/christopherwardana/projects/project-sandy/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

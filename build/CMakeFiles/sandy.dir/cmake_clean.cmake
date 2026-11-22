@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sandy.dir/src/core/gui.cpp.o"
   "CMakeFiles/sandy.dir/src/core/gui.cpp.o.d"
+  "CMakeFiles/sandy.dir/src/core/parseJson.cpp.o"
+  "CMakeFiles/sandy.dir/src/core/parseJson.cpp.o.d"
   "CMakeFiles/sandy.dir/src/main.cpp.o"
   "CMakeFiles/sandy.dir/src/main.cpp.o.d"
   "sandy"

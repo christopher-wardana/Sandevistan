@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = -Dplugin_app_operations_EXPORTS
 
-CXX_INCLUDES = -I/Users/christopherwardana/projects/project-sandy/src
+CXX_INCLUDES = -I/Users/christopherwardana/projects/project-sandy/src -I/Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include
 
 CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -fPIC
 

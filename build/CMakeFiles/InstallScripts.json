@@ -1,7 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/christopherwardana/projects/project-sandy/build/cmake_install.cmake"
+		"/Users/christopherwardana/projects/project-sandy/build/cmake_install.cmake",
+		"/Users/christopherwardana/projects/project-sandy/build/_deps/json-build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

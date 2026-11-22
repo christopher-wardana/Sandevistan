@@ -12,6 +12,7 @@
 		[
 			"add_library",
 			"target_link_options",
+			"target_link_libraries",
 			"target_include_directories"
 		],
 		"files" : 
@@ -26,19 +27,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 40,
+				"line" : 55,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 49,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 41,
+				"line" : 57,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 56,
 				"parent" : 0
 			}
 		]
@@ -48,6 +55,13 @@
 		"major" : 2,
 		"minor" : 12
 	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "nlohmann_json::@1f73e43ed239fe3d59ae"
+		}
+	],
 	"compileGroups" : 
 	[
 		{
@@ -66,8 +80,12 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 3,
+					"backtrace" : 4,
 					"path" : "/Users/christopherwardana/projects/project-sandy/src"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include"
 				}
 			],
 			"language" : "CXX",
@@ -75,7 +93,7 @@
 			{
 				"backtraces" : 
 				[
-					1
+					3
 				],
 				"standard" : "17"
 			},
@@ -107,6 +125,13 @@
 		],
 		"language" : "CXX"
 	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "nlohmann_json::@1f73e43ed239fe3d59ae"
+		}
+	],
 	"name" : "plugin_app_operations",
 	"nameOnDisk" : "plugin_app_operations.so",
 	"paths" : 

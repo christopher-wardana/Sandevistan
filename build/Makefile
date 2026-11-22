@@ -175,6 +175,30 @@ src/core/gui.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/gui.cpp.s
 .PHONY : src/core/gui.cpp.s
 
+src/core/parseJson.o: src/core/parseJson.cpp.o
+.PHONY : src/core/parseJson.o
+
+# target to build an object file
+src/core/parseJson.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/parseJson.cpp.o
+.PHONY : src/core/parseJson.cpp.o
+
+src/core/parseJson.i: src/core/parseJson.cpp.i
+.PHONY : src/core/parseJson.i
+
+# target to preprocess a source file
+src/core/parseJson.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/parseJson.cpp.i
+.PHONY : src/core/parseJson.cpp.i
+
+src/core/parseJson.s: src/core/parseJson.cpp.s
+.PHONY : src/core/parseJson.s
+
+# target to generate assembly for a file
+src/core/parseJson.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/parseJson.cpp.s
+.PHONY : src/core/parseJson.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -236,6 +260,9 @@ help:
 	@echo "... src/core/gui.o"
 	@echo "... src/core/gui.i"
 	@echo "... src/core/gui.s"
+	@echo "... src/core/parseJson.o"
+	@echo "... src/core/parseJson.i"
+	@echo "... src/core/parseJson.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
