@@ -110,12 +110,12 @@ _deps/json-build/clean:
 CMakeFiles/sandy.dir/all: CMakeFiles/plugin_app_operations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/christopherwardana/projects/project-sandy/build/CMakeFiles --progress-num=3,4,5,6 "Built target sandy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/christopherwardana/projects/project-sandy/build/CMakeFiles --progress-num=3,4,5,6,7 "Built target sandy"
 .PHONY : CMakeFiles/sandy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sandy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christopherwardana/projects/project-sandy/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christopherwardana/projects/project-sandy/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sandy.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christopherwardana/projects/project-sandy/build/CMakeFiles 0
 .PHONY : CMakeFiles/sandy.dir/rule
@@ -127,7 +127,7 @@ sandy: CMakeFiles/sandy.dir/rule
 # codegen rule for target.
 CMakeFiles/sandy.dir/codegen: CMakeFiles/plugin_app_operations.dir/codegen
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/christopherwardana/projects/project-sandy/build/CMakeFiles --progress-num=3,4,5,6 "Finished codegen for target sandy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/christopherwardana/projects/project-sandy/build/CMakeFiles --progress-num=3,4,5,6,7 "Finished codegen for target sandy"
 .PHONY : CMakeFiles/sandy.dir/codegen
 
 # clean rule for target.

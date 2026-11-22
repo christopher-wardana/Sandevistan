@@ -919,4 +919,6 @@ CMakeFiles/sandy.dir/src/core/gui.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/any \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono \
   /Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include/nlohmann/detail/macro_unscope.hpp \
-  /Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+  /Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
+  /Users/christopherwardana/projects/project-sandy/src/core/plugin_registry.h \
+  /Users/christopherwardana/projects/project-sandy/src/core/plugin_entry.h

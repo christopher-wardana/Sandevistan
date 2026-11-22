@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/christopherwardana/projects/project-sandy/src/core/gui.cpp" "CMakeFiles/sandy.dir/src/core/gui.cpp.o" "gcc" "CMakeFiles/sandy.dir/src/core/gui.cpp.o.d"
   "/Users/christopherwardana/projects/project-sandy/src/core/parseJson.cpp" "CMakeFiles/sandy.dir/src/core/parseJson.cpp.o" "gcc" "CMakeFiles/sandy.dir/src/core/parseJson.cpp.o.d"
+  "/Users/christopherwardana/projects/project-sandy/src/core/plugin_registry.cpp" "CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.o" "gcc" "CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.o.d"
   "/Users/christopherwardana/projects/project-sandy/src/main.cpp" "CMakeFiles/sandy.dir/src/main.cpp.o" "gcc" "CMakeFiles/sandy.dir/src/main.cpp.o.d"
   )
 

@@ -199,6 +199,30 @@ src/core/parseJson.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/parseJson.cpp.s
 .PHONY : src/core/parseJson.cpp.s
 
+src/core/plugin_registry.o: src/core/plugin_registry.cpp.o
+.PHONY : src/core/plugin_registry.o
+
+# target to build an object file
+src/core/plugin_registry.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.o
+.PHONY : src/core/plugin_registry.cpp.o
+
+src/core/plugin_registry.i: src/core/plugin_registry.cpp.i
+.PHONY : src/core/plugin_registry.i
+
+# target to preprocess a source file
+src/core/plugin_registry.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.i
+.PHONY : src/core/plugin_registry.cpp.i
+
+src/core/plugin_registry.s: src/core/plugin_registry.cpp.s
+.PHONY : src/core/plugin_registry.s
+
+# target to generate assembly for a file
+src/core/plugin_registry.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandy.dir/build.make CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.s
+.PHONY : src/core/plugin_registry.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -263,6 +287,9 @@ help:
 	@echo "... src/core/parseJson.o"
 	@echo "... src/core/parseJson.i"
 	@echo "... src/core/parseJson.s"
+	@echo "... src/core/plugin_registry.o"
+	@echo "... src/core/plugin_registry.i"
+	@echo "... src/core/plugin_registry.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

@@ -101,14 +101,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "plugin_app_operations::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-plugin_app_operations-Debug-116373d97122819279f8.json",
+					"jsonFile" : "target-plugin_app_operations-Debug-0b486ea30afd86145443.json",
 					"name" : "plugin_app_operations",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "sandy::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-sandy-Debug-d4b776154b1a2fa4f9e4.json",
+					"jsonFile" : "target-sandy-Debug-899d4f190533275cff22.json",
 					"name" : "sandy",
 					"projectIndex" : 0
 				}

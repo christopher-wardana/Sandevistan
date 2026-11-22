@@ -22,5 +22,11 @@
   "command": "/usr/bin/clang++ -DGRAPHICS_API_OPENGL_33 -DPHRASES_PATH=\\\"/Users/christopherwardana/projects/project-sandy/src/plugins/plugin_app_operations/phrases.json\\\" -DPLATFORM_DESKTOP -DPLUGIN_DIR=\\\"/Users/christopherwardana/projects/project-sandy/build/plugins\\\" -DUSE_LIBTYPE_SHARED -I/Users/christopherwardana/projects/project-sandy/src -I/Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/sandy.dir/src/core/parseJson.cpp.o -c /Users/christopherwardana/projects/project-sandy/src/core/parseJson.cpp",
   "file": "/Users/christopherwardana/projects/project-sandy/src/core/parseJson.cpp",
   "output": "CMakeFiles/sandy.dir/src/core/parseJson.cpp.o"
+},
+{
+  "directory": "/Users/christopherwardana/projects/project-sandy/build",
+  "command": "/usr/bin/clang++ -DGRAPHICS_API_OPENGL_33 -DPHRASES_PATH=\\\"/Users/christopherwardana/projects/project-sandy/src/plugins/plugin_app_operations/phrases.json\\\" -DPLATFORM_DESKTOP -DPLUGIN_DIR=\\\"/Users/christopherwardana/projects/project-sandy/build/plugins\\\" -DUSE_LIBTYPE_SHARED -I/Users/christopherwardana/projects/project-sandy/src -I/Users/christopherwardana/projects/project-sandy/build/_deps/json-src/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.o -c /Users/christopherwardana/projects/project-sandy/src/core/plugin_registry.cpp",
+  "file": "/Users/christopherwardana/projects/project-sandy/src/core/plugin_registry.cpp",
+  "output": "CMakeFiles/sandy.dir/src/core/plugin_registry.cpp.o"
 }
 ]
