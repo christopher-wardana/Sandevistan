@@ -1,0 +1,11 @@
+{
+    "plugin_type": "app operations",
+    "version": 0.1,
+    "intents": {
+        "open_app": {
+            "patterns": ["^(open|launch|start) (?<app>.+)$"],
+            "slots": {"app": { "type": "installed_app" } }
+        }
+    }
+
+}
